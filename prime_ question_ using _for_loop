@@ -1,0 +1,4 @@
+for k in range(0,23):
+    if(i %2==0):
+        print(k,end="")
+         
